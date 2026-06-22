@@ -1,100 +1,91 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anirban+%F0%9F%91%8B;Full-Stack+Dev+%7C+ML+Tinkerer;IIT+Patna)](https://git.io/typing-svg)
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anirban+%F0%9F%91%8B;Full-Stack+Developer;ML+Enthusiast;IIT+Patna" alt="Typing SVG" />
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-- 🔨 Building full-stack web apps and ML-powered tools
-- 💻 C/C++, Python, JavaScript
-- 🌱 Currently learning Web Development and Machine Learning
+I'm a **Full-Stack Developer** and **Machine Learning tinkerer** from IIT Patna. I love building things that live at the intersection of **clean code**, **scalable systems**, and **intelligent algorithms**. Whether it's crafting responsive UIs, designing RESTful APIs, or training models to recognize patterns, I'm always excited to learn and create.
 
-## 🚀 Projects
-
-### 🧠 Quizzically
-> *A full-stack quiz platform built for the IIT Patna Quiz Club*
-
-A production-ready web app with JWT + Google OAuth authentication, performance analytics, a Question of the Day with AI explanations, and a Quiz Master dataset to help members prep for real quiz rounds.
-
-**Stack:**
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Highlights:**
-- 🔐 JWT auth + Google OAuth with account locking & streak tracking
-- 📊 Performance dashboard with genre-wise charts (Recharts)
-- 🗓️ Question of the Day with Claude AI-powered explanations
-- 🏆 Leaderboard, Past Quiz Sets, QM Dataset
-- 🛡️ Rate limiting, Helmet, input validation — security-first backend
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Oniban/quizzically)
+- 🔭 I’m currently working on **full‑stack web apps** with React & FastAPI, and exploring **ML pipelines**.
+- 🌱 I’m deepening my knowledge of **Deep Learning** and **cloud deployment**.
+- 👯 I’m open to collaborating on **open‑source projects** that have a social impact.
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute — and I debug faster 😄.
 
 ---
 
-### 🎬 Mood Movies (FeeelNima)
-> *Tell it how you feel. It finds your movie.*
+## 📊 GitHub Stats
 
-A mood-based movie recommender that detects your emotion from free-form text using a HuggingFace NLP model, then fetches matching films from the TMDB API. Deployed on Render.
+<div align="center">
+  <a href="https://github.com/Oniban">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oniban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oniban&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
+</div>
 
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oniban&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-**Highlights:**
-- 🤗 Uses `cardiffnlp/twitter-roberta-base-sentiment` for emotion classification
-- 🎥 Maps 7 emotions (joy, sadness, anger, fear...) to TMDB genre combos
-- ⚡ Async FastAPI backend with response caching
-- 🌐 Deployed live on Render
+---
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Oniban/feelnima)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://feelnima-backend.onrender.com)
+## 🚀 Projects Highlights
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project 1](https://github.com/Oniban/project1)** | Brief description of what it does. | React, Node.js, MongoDB |
+| **[Project 2](https://github.com/Oniban/project2)** | Brief description (ML or web). | Python, FastAPI, scikit‑learn |
+| **[Project 3](https://github.com/Oniban/project3)** | Another cool project. | JavaScript, Express, TensorFlow.js |
+
+> 🔗 *Replace the links and descriptions with your actual projects.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+### 🧰 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations, collaborations, or just a friendly chat. Reach out to me on:
+
+<div align="center">
+  <a href="https://github.com/Oniban"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anirban-dutta-931827219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anirbandutta0364@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oniban)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirban-dutta-931827219)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbandutta0364@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Let it Happen."*
-
+  <i>"Let it Happen."</i>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Oniban&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
