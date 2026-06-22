@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anirban+%F0%9F%91%8B;" />
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
 I'm a **Full-Stack Developer** and **Machine Learning Enthusiast**.
 I love building things that live at the intersection of clean code, **scalable systems**, and **intelligent algorithms**.
----
+
 
 
 
