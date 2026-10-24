@@ -5,30 +5,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Machine Learning Enthusiast**.
-I love building things that live at the intersection of clean code, **scalable systems**, and **intelligent algorithms**.
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oniban&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🚀 Projects Highlights
----
-
-| Project                                                            | Description                                                                                                                                                      | Tech Stack                                                                       |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **[Student Affairs Portal](https://github.com/Oniban/DeployIITP)** | A modern, responsive web portal serving as the central digital hub for student welfare.<br>Made for DeployIITP                                                   | React, Tailwind CSS v4, Framer Motion, TypeScript                                |
-| **[Feelnima](https://github.com/Oniban/Feelnima)**                 | Tell us how you feel, and our ML model instantly analyzes your emotions to recommend the perfect films,                                                          | `@xenova/transformers` (Transformers.js) running ONNX Runtime Web,React,TMDB API |
-| **[IITP Tracker](https://iitp-tracker.vercel.app)**                | *A student utility portal for IIT Patna that provides quick access to time tables, schedule search, bus schedules, resources, settings, and account management.* | *React+Express*                                                                  |
-|                                                                    |                                                                                                                                                                  |                                                                                  |
-
-
----
+I'm a **Developer** and **Machine Learning Enthusiast**.
+I love building things :)
 
 ## 🛠️ Tech Stack
 
